@@ -15,8 +15,8 @@ export const PortfolioComponent = () => {
                 setProjects((prev)=>[
                     ...prev,
                     {
-                        name:data[2].name,
-                        description:data[2].description,
+                        name:data[6].name,
+                        description:data[6].description,
                     },
                     {
                         name:data[3].name,
@@ -31,8 +31,8 @@ export const PortfolioComponent = () => {
                         description:data[5].description,
                     },
                     {
-                        name:data[8].name,
-                        description:data[8].description,
+                        name:data[10].name,
+                        description:data[10].description,
                     },
                     {
                         name:data[9].name,
