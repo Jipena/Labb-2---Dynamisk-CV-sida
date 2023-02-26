@@ -1,25 +1,32 @@
 import logo from './logo.svg';
+import { React } from "react";
+import { NavbarComponent } from "./components/navbar.js";
+import { HomeComponent } from "./components/home.js";
+import { Cv } from "./components/Cv.js";
+import { ContactMeComponent } from './components/contact.js';
+import { PersonalLetterComponent } from './components/letter.js';
+import { PortfolioComponent } from './components/portfolio.js';
+import { Footer } from './components/footer.js';
+import {BrowserRouter as Router, HashRouter, Route, Routes} from "react-router-dom"
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import './css/style.css';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <HashRouter>
+      <NavbarComponent/>
+        <Routes>
+          <Route path="/home" element={<HomeComponent/>} />
+          <Route path="/cv" element={<Cv/>} />
+          <Route path="/letter" element={<PersonalLetterComponent/>} />
+          <Route path="/portfolio" element={<PortfolioComponent/>} />
+          <Route path="/contact" element={<ContactMeComponent/>} />
+        </Routes>
+      </HashRouter>
+      <Footer/>
+      
     </div>
-  );
-}
-
-export default App;
+  )
+};

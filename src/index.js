@@ -4,6 +4,20 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+document.addEventListener('keypress', easteregg, false);
+     let text = '';
+     function easteregg(event) {
+      text += event.key;
+      console.log(text);
+      if(text === '1337'){
+          alert('Något roligt meddelande');
+      }
+      else if(text.length > 3){
+          text = '';
+      }
+     }
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

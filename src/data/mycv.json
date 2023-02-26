@@ -1,0 +1,89 @@
+{
+    "Yrkeserfarenheter":[
+        {
+            "Arbetsplats" : "Måleritjänst",
+            "Arbetsuppgift" : "Arbetade som målare.",
+            "Anställningsår" : "2012-06-06"
+        },
+        {
+            "Arbetsplats" : "Hudiksvallskommun",
+            "Arbetsuppgift" : "Arbetade på ett gruppboende",
+            "Anställningsår" : "2015-06-06"
+        },
+        {
+            "Arbetsplats" : "Aven Forsa",
+            "Arbetsuppgift" : "Arbetade som maskinoperatör",
+            "Anställningsår" : "2018-06-06"
+        }
+    ],
+    "Praktik":[
+        {
+            "Arbetsplats" : "Fotbollsskola",
+            "Arbetsuppgift" : "Ledare för fotbollsskola",
+            "Anställningsår" : "2010-06-06"
+        },
+        {
+            "Arbetsplats" : "Karl Hedin",
+            "Arbetsuppgift" : "Säljare",
+            "Anställningsår" : "2008-06-06"
+        },
+        {
+            "Arbetsplats" : "Fotbollsskola",
+            "Arbetsuppgift" : "Ledare för fotbollsskola",
+            "Anställningsår" : "2007-06-06"
+        }
+        
+    ],
+    "Utbildningar":[
+        {
+            "Utbildning" : "Ställningsbyggnad",
+            "Allmänt" : "2-9 meter",
+            "Utbildningsår" : "2010-04-03"
+        },
+        {
+            "Utbildning" : "Byggprogrammet",
+            "Allmänt" : "3 årig gymnasialutbildning",
+            "Utbildningsår" : "2008-09-06"
+        },
+        {
+            "Utbildning" : "Elprogrammet",
+            "Allmänt" : "1 år gymnasialutbildning",
+            "Utbildningsår" : "2007-09-06"
+        },
+        {
+            "Utbildning" : "Körkort",
+            "Allmänt" : "Tog körkort i Hudiksvall",
+            "Utbildningsår" : "2016-06-30"
+        }
+        
+    ],
+    "Datakunskaper":[
+        {
+            "kunskap" : "Windows"
+        },
+        {
+            "kunskap" : "Excel"
+        },
+        {
+            "kunskap" : "Outlook"
+        },
+        {
+            "kunskap" : "Internet"
+        },
+        {
+            "kunskap" : "AutoCAD"
+        },
+        {
+            "kunskap" : "Objekt Orienterad Programmering"
+        },
+        {
+            "kunskap" : "Databaser"
+        },
+        {
+            "kunskap" : "HTML"
+        },
+        {
+            "kunskap" : "CSS"
+        }
+    ]
+}
