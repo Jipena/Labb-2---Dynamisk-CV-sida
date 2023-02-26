@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/css/main.073c9b0a.css",
-    "main.js": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/js/main.a37c278f.js",
+    "main.css": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/css/main.2f65383d.css",
+    "main.js": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/js/main.11c76d7e.js",
     "static/js/787.6e60c89b.chunk.js": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/js/787.6e60c89b.chunk.js",
     "static/media/logo.svg": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/index.html",
-    "main.073c9b0a.css.map": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/css/main.073c9b0a.css.map",
-    "main.a37c278f.js.map": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/js/main.a37c278f.js.map",
+    "main.2f65383d.css.map": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/css/main.2f65383d.css.map",
+    "main.11c76d7e.js.map": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/js/main.11c76d7e.js.map",
     "787.6e60c89b.chunk.js.map": "/Labb%202%20%E2%80%93%20Dynamisk%20CV-sida/static/js/787.6e60c89b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a37c278f.js"
+    "static/css/main.2f65383d.css",
+    "static/js/main.11c76d7e.js"
   ]
 }
