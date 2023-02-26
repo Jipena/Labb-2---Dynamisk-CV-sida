@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.2f65383d.css",
-    "main.js": "/CV/static/js/main.ca2dd3f9.js",
-    "static/js/787.6e60c89b.chunk.js": "/CV/static/js/787.6e60c89b.chunk.js",
-    "static/media/logo.svg": "/CV/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/CV/index.html",
-    "main.2f65383d.css.map": "/CV/static/css/main.2f65383d.css.map",
-    "main.ca2dd3f9.js.map": "/CV/static/js/main.ca2dd3f9.js.map",
-    "787.6e60c89b.chunk.js.map": "/CV/static/js/787.6e60c89b.chunk.js.map"
+    "main.css": "/Labb-2---Dynamisk-CV-sida/static/css/main.2f65383d.css",
+    "main.js": "/Labb-2---Dynamisk-CV-sida/static/js/main.d50f4dc6.js",
+    "static/js/787.6e60c89b.chunk.js": "/Labb-2---Dynamisk-CV-sida/static/js/787.6e60c89b.chunk.js",
+    "static/media/logo.svg": "/Labb-2---Dynamisk-CV-sida/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Labb-2---Dynamisk-CV-sida/index.html",
+    "main.2f65383d.css.map": "/Labb-2---Dynamisk-CV-sida/static/css/main.2f65383d.css.map",
+    "main.d50f4dc6.js.map": "/Labb-2---Dynamisk-CV-sida/static/js/main.d50f4dc6.js.map",
+    "787.6e60c89b.chunk.js.map": "/Labb-2---Dynamisk-CV-sida/static/js/787.6e60c89b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f65383d.css",
-    "static/js/main.ca2dd3f9.js"
+    "static/js/main.d50f4dc6.js"
   ]
 }
